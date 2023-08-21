@@ -1692,13 +1692,10 @@ text-helpers = ["chardet (>=5.1.0,<6.0.0)"]
 
 [[package]]
 name = "llama-index"
-version = "0.5.4"
+version = "0.5.27"
 description = "Interface between LLMs and your data."
 optional = false
 python-versions = "*"
-files = [
-    {file = "llama_index-0.5.4.tar.gz", hash = "sha256:f6c556370f7f03039bc19be4ca594b00f38d7cea18399f6045bc776fa3a90d15"},
-]
 
 [package.dependencies]
 dataclasses_json = "*"
